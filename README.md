@@ -5,6 +5,7 @@
 Clone the `rails-in-docker` repository:
 
 
+
 If you already have a `Rails` project, clone this repository on your `Rails` project root directory:
 
 ```bash
