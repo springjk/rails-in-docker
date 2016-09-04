@@ -4,7 +4,7 @@
 
 Clone the `rails-in-docker` repository:
 
-If you already have a `Rails` project, clone this repository on your `Rails` project root directory:
+* If you already have a `Rails` project, clone this repository on your `Rails` project root directory:
 
 ```bash
 git submodule add https://github.com/springjk/rails-in-docker.git
